@@ -1,0 +1,17 @@
+/home/daluz/Projects/crudApi/DataServices/bin/Debug/net5.0/DataServices.deps.json
+/home/daluz/Projects/crudApi/DataServices/bin/Debug/net5.0/DataServices.dll
+/home/daluz/Projects/crudApi/DataServices/bin/Debug/net5.0/ref/DataServices.dll
+/home/daluz/Projects/crudApi/DataServices/bin/Debug/net5.0/DataServices.pdb
+/home/daluz/Projects/crudApi/DataServices/bin/Debug/net5.0/DataAccess.dll
+/home/daluz/Projects/crudApi/DataServices/bin/Debug/net5.0/Models.dll
+/home/daluz/Projects/crudApi/DataServices/bin/Debug/net5.0/Models.pdb
+/home/daluz/Projects/crudApi/DataServices/bin/Debug/net5.0/DataAccess.pdb
+/home/daluz/Projects/crudApi/DataServices/obj/Debug/net5.0/DataServices.csprojAssemblyReference.cache
+/home/daluz/Projects/crudApi/DataServices/obj/Debug/net5.0/DataServices.GeneratedMSBuildEditorConfig.editorconfig
+/home/daluz/Projects/crudApi/DataServices/obj/Debug/net5.0/DataServices.AssemblyInfoInputs.cache
+/home/daluz/Projects/crudApi/DataServices/obj/Debug/net5.0/DataServices.AssemblyInfo.cs
+/home/daluz/Projects/crudApi/DataServices/obj/Debug/net5.0/DataServices.csproj.CoreCompileInputs.cache
+/home/daluz/Projects/crudApi/DataServices/obj/Debug/net5.0/DataServices.csproj.CopyComplete
+/home/daluz/Projects/crudApi/DataServices/obj/Debug/net5.0/DataServices.dll
+/home/daluz/Projects/crudApi/DataServices/obj/Debug/net5.0/ref/DataServices.dll
+/home/daluz/Projects/crudApi/DataServices/obj/Debug/net5.0/DataServices.pdb
