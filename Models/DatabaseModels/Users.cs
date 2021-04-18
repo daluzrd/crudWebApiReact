@@ -21,6 +21,7 @@ namespace Models
         public DateTime BirthDate { get; set; }
 
         [Required]
+        [MinLength(11)]
         [MaxLength(11)]
         [Column("cpf")]
         public string CPF { get; set; }

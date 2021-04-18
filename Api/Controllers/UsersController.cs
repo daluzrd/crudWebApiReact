@@ -40,6 +40,30 @@ namespace Api.Controllers
                 return StatusCode(500, e.Message);
             }
         }
+
+        [HttpPost]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        public IActionResult Post(string name, DateTime birthDate, string cpf, string user = null, string pwd = null)
+        {
+            try
+            {
+                Users users = new Users();
+                users.Name = name;
+                users.BirthDate = birthDate;
+                users.CPF = cpf;
+                users.User = user;
+                users.Pwd = pwd;
+
+                _usersServices.Post(users);
+                return NoContent();
+            }
+            catch(Exception e)
+            {
+                return StatusCode(500, e.Message);
+            }
+        }
         
 
         [HttpGet]
